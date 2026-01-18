@@ -80,4 +80,4 @@ chmod +x wp-cli.sh
 
 Distribué sous licence **GNU GPL v3.0**. Voir le fichier `LICENSE` pour plus de détails.
 
-**Auteur :** Amaury Libert (Blabla Linux) - [blablalinux.be](https://link.blablalinux.be)
+**Auteur :** Amaury aka BlablaLinux - [blablalinux.be](https://link.blablalinux.be)
