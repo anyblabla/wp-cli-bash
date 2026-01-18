@@ -56,7 +56,7 @@ A complete step-by-step installation and configuration guide is available on the
 Le projet est hébergé sur deux plateformes. Choisissez votre source préférée :
 
 * **Gitea (Principal) :** [gitea.blablalinux.be/blablalinux/wp-cli-bash](https://gitea.blablalinux.be/blablalinux/wp-cli-bash)
-* **GitHub (Miroir) :** [github.com/blablalinux/wp-cli-bash](https://www.google.com/search?q=https://github.com/blablalinux/wp-cli-bash)
+* **GitHub (Miroir) :** [github.com/blablalinux/wp-cli-bash](https://github.com/anyblabla/wp-cli-bash)
 
 ## 🛠️ Installation
 
